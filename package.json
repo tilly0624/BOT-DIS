@@ -1,0 +1,12 @@
+{
+  "name": "Arisa",
+  "version": "1.0.0",
+  "description": "Arisa",
+  "main": "dice.js",
+  "author": "Double",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.6.4",
+    "winston": "^3.3.3"
+  }
+}
